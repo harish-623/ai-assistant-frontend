@@ -1,0 +1,18 @@
+
+> ai-chatbot@0.0.0 dev
+> vite --host 127.0.0.1
+
+
+  [32m[1mVITE[22m v4.5.14[39m  [2mready in [0m[1m269[22m[2m[0m ms[22m
+
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://127.0.0.1:[1m5173[22m/[39m
+[2m5:02:12 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/App.tsx[22m
+[2m5:02:12 pm[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/main.tsx[22m
+[2m5:11:05 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/App.tsx[22m
+[2m5:11:09 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/App.tsx[22m
+[2m5:13:31 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/App.css[22m
+[2m5:23:28 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/App.tsx[22m
+[2m5:23:35 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/App.tsx[22m
+[2m5:23:37 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/App.css[22m
+[2m10:31:08 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/App.tsx[22m
+[2m10:31:08 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/App.tsx[22m
